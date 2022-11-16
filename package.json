@@ -1,5 +1,5 @@
 {
-  "name": "mrzparser",
+  "name": "mrz.ro",
   "version": "1.0.0",
   "description": "parse mrz codes to humar readable object",
   "main": "index.js",
