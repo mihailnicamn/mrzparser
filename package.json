@@ -1,0 +1,24 @@
+{
+  "name": "mrzparser",
+  "version": "1.0.0",
+  "description": "parse mrz codes to humar readable object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihailnicamn/mrzparser.git"
+  },
+  "keywords": [
+    "mrz",
+    "mrzcode",
+    "mrz-code"
+  ],
+  "author": "mihailnicamn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihailnicamn/mrzparser/issues"
+  },
+  "homepage": "https://github.com/mihailnicamn/mrzparser#readme"
+}
