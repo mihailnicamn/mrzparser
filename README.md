@@ -1,4 +1,4 @@
 # mrzparser
-mrz code parser
+parser for romanian id mrz code
 
 ``` npm i mrz.ro ```
